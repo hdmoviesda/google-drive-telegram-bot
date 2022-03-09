@@ -4,7 +4,7 @@ class config:
     API_HASH = "d48e75518c95b9d3b86d1dafccf42a27"
     DATABASE_URL = "postgres://ifethqddpxmyut:483a2e871e30173f685fb9878f484437f0ca097a84b6e93d158b27e8f5306722@ec2-52-45-83-163.compute-1.amazonaws.com:5432/d70bnkue2ermj7"
     SUDO_USERS = "975338806" # Sepearted by space.
-    SUPPORT_CHAT_LINK = "https://tamilrockers.moviesda.download"
+    SUPPORT_CHAT_LINK = "https://jayasurya.co.in"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = "202264815644.apps.googleusercontent.com"
     G_DRIVE_CLIENT_SECRET = "X4Z3ca8xfWDb1Voo-F9a7ZxJ"
