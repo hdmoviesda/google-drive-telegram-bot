@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = "5142657091:AAFVHYE34iBQ56EOTSlD1TdIDWBtj1_XXHk"
-    APP_ID = "17742992"
-    API_HASH = "d48e75518c95b9d3b86d1dafccf42a27"
-    DATABASE_URL = "postgres://ifethqddpxmyut:483a2e871e30173f685fb9878f484437f0ca097a84b6e93d158b27e8f5306722@ec2-52-45-83-163.compute-1.amazonaws.com:5432/d70bnkue2ermj7"
-    SUDO_USERS = "975338806" # Sepearted by space.
-    SUPPORT_CHAT_LINK = "https://jayasurya.co.in"
+    BOT_TOKEN = "5110283070:AAHoecg2QsnoTRoClgtMrteHOl36XDcTaVQ"
+    APP_ID = "10949797"
+    API_HASH = "b5ce97072ad6e5dfe9a44c6c7b72c27e"
+    DATABASE_URL = "postgres://wyxupiirdzghwn:4c590f4a65240e1575e4900f079dad5fede1faa201ae8e6c68eb1e6df84aa631@ec2-44-194-4-127.compute-1.amazonaws.com:5432/dbcsdoes8fv487"
+    SUDO_USERS = "5122983497" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://github.com/ijayasurya/google-drive-telegram-bot"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = "202264815644.apps.googleusercontent.com"
     G_DRIVE_CLIENT_SECRET = "X4Z3ca8xfWDb1Voo-F9a7ZxJ"
